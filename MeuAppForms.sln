@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuAppForms.Android", "MeuAppForms\MeuAppForms.Android\MeuAppForms.Android.csproj", "{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MeuAppForms", "MeuAppForms\MeuAppForms\MeuAppForms.shproj", "{232267EE-5A4E-4F84-B760-1B63B275792D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MeuAppForms\MeuAppForms\MeuAppForms.projitems*{232267ee-5a4e-4f84-b760-1b63b275792d}*SharedItemsImports = 13
+		MeuAppForms\MeuAppForms\MeuAppForms.projitems*{e816ad2b-a34e-4f7c-b996-b66bb821c5be}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E816AD2B-A34E-4F7C-B996-B66BB821C5BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7A4A28-2604-424C-B69F-0700CBDEF6DB}
+	EndGlobalSection
+EndGlobal
